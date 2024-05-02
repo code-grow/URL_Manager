@@ -1,0 +1,5 @@
+# Color palette
+primary_color = "#3F51B5"  # Dark blue
+secondary_color = "#FF5722"  # Deep orange
+background_color = "#87CEEB"  # Sky blue
+treeview_bg_color = "#FFFFFF"  # White
